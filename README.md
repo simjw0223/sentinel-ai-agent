@@ -1,6 +1,11 @@
 # Sentinel-1 AI Agent
 
 Interactive satellite data download chatbot powered by LangChain and Streamlit. Chat in natural language to search and download Sentinel-1 SAR imagery automatically.
+<p align="center">
+  ![msedge_rfcav12SRR](https://github.com/user-attachments/assets/a38c1dda-f12c-4d97-bc84-6d330766b2fb)
+
+</p>
+
 
 ---
 
