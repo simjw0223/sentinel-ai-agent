@@ -3,10 +3,9 @@
 Interactive satellite data download chatbot powered by LangChain and Streamlit. Chat in natural language to automatically search and download Sentinel-1 (SAR) and Sentinel-2 (Optical) imagery with intelligent location recognition.
 
 <p align="center">
-  ![msedge_ofXT2HggEz](https://github.com/user-attachments/assets/3bc4ede2-cf1d-4d1e-b8d4-1542948906dc)
-
-
+  <img src="https://github.com/user-attachments/assets/3bc4ede2-cf1d-4d1e-b8d4-1542948906dc" width="750" />
 </p>
+
 
 
 ---
